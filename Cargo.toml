@@ -1,0 +1,14 @@
+[package]
+name = "colorcc"
+version = "0.1.0"
+edition = "2021"
+description = "🎨 A cli tool to give you some color see see."
+license = "MIT"
+homepage = "https://github.com/JiatLn/colorcc"
+repository = "https://github.com/JiatLn/colorcc"
+keywords = ["cli", "iroiro", "color"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = { version = "0.3", default-features = false }
